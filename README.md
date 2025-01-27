@@ -13,3 +13,5 @@ Links to all Delta Cluster nodes are as follows:
 7. [Node 7 - Koyeb](https://delta-node-7.koyeb.app)
 8. [Node 8 - Neocities](https://delta-node-8.neocities.org)
 9. [Node 9 - Cloudflare Pages](https://delta-node-9.pages.dev)
+
+[You can also check the status of all servers from here.](https://stats.uptimerobot.com/jcR9LDd3iJ)
