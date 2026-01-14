@@ -1,4 +1,13 @@
 <html>
+    <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const currentYear = new Date().getFullYear();
+    const yearElement = document.getElementById('year');
+    if (yearElement) {
+      yearElement.textContent = currentYear;
+    }
+  });
+</script>
 <style>
 .numBox
     {position:relative;}
@@ -11,7 +20,8 @@
 <h4 align="center" style="font-style: italic">Coming Soon!</h4>
 <hr>
 <div class="numBox">
-<p class="num"><h6 style="font-family: Lucida Sans">&#x2022; 2025 Upcycle Network <a href="https://stats.uptimerobot.com/jcR9LDd3iJ/798127232" target="_blank">Delta Node 9<a> running on <a href="https://pages.cloudflare.com" target="_blank">cloudflare pages</a></h6></p>
+<p class="num"><h6 style="font-family: Lucida Sans">&#x2022; <span id="year"></span> Upcycle Network <a href="https://stats.uptimerobot.com/jcR9LDd3iJ/798127232" target="_blank">Delta Node 9<a> running on <a href="https://pages.cloudflare.com" target="_blank">cloudflare pages</a></h6></p>
 </div>
 </body>
 </html>
+
