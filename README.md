@@ -9,7 +9,7 @@ All projects hosted here are either FOSS or non-commercial. I have no intention 
 
 Links to all Delta Cluster nodes are as follows:
 1. [Node 1 - AlwaysData](https://anabelle-bot.alwaysdata.net): Allocated for Project Anabelle Discord Bot
-2. [Node 2 - boxd](https://delta-node-2.boxd.sh/)
+2. [Node 2 - Railway](https://delta-node-2.up.railway.app/)
 3. [Node 3 - Serv00](https://kosmicdakerbal.serv00.net)
 4. [Static Node 4 - Vercel](https://delta-node-4.vercel.app)
 5. [Node 5 - Render](https://delta-node-5.onrender.com)
